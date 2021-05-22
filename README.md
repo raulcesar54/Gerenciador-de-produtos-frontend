@@ -5,13 +5,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50491912/119214106-93109700-ba9a-11eb-9a8e-9649a3833271.png">
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50491912/119214118-a3c10d00-ba9a-11eb-9143-32c16d849114.png">
-</p>
 
 ### 😉 Back-end 
 
-https://github.com/raulcesar54/Eureka-backend
+https://github.com/raulcesar54/Gerenciador-de-produtos
 
 ### 🙌 Pré-requisitos
 
