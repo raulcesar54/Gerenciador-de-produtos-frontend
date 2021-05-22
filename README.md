@@ -19,13 +19,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Rodando o Front end
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/raulcesar54/Eureka-busca-cep>
+$ git clone <https://github.com/raulcesar54/Gerenciador-de-produtos-frontend
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Eureka-busca-cep
-
-# Vá para a pasta server
-$ cd Eureka-busca-cep
+$ cd Gerenciador-de-produtos-frontend
 
 # Instale as dependências
 $ yarn
